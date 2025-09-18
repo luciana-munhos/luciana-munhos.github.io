@@ -1,6 +1,6 @@
 # Luciana Munhos - Personal Portfolio
 
-This repository contains the files for my portfolio website: https://lucianamunhos.github.io
+This repository contains the files for my portfolio website: https://luciana-munhos.github.io
 
 The site showcases my Data Science projects, interests, and contact information.
 
